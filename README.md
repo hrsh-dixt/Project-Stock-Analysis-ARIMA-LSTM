@@ -1,7 +1,7 @@
 # Project-Stock-Analysis-ARIMA-LSTM
 Stock price prediction using 4 different stocks check for accuracy between ARIMA and LSTM model
 
-OBJECTIVE:-
+## OBJECTIVE:-
 The following are some of the objectives of the study:
 1. To review the usage of time series models for price prediction in the stock market, with a particular emphasis on the ARIMA, Keras with LSTM, and Prophet models.
 2. To compile historical data on the stock prices of different stock of companies.
